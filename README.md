@@ -1,1 +1,1 @@
-# Voting-Ballot-Using-C
+# Voting-Ballot-Using-Linked-List
